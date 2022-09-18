@@ -11,4 +11,4 @@ Para descargar la aplicación accedes a dist/ luego deberas seleccionar el archi
 </ul>
 
 <strong>Nota:</strong> al copiar el código  fuente debes ejecutar el siguiente comado:
-<code>pip install pdf2word</code>
+<code>pip install pdf2word</code> para instalar todas las librerias utilizadas 
